@@ -88,7 +88,7 @@ export default function Album() {
                             paragraph
                         >
                             If you get a pet, it will bring you happiness. Don't
-                            miss your chance!
+                            miss your chance! Adopt a pet today!
                         </Typography>
                         <div className={classes.heroButtons}>
                             <Grid container spacing={2} justifyContent='center'>
