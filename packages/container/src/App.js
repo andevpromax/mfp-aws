@@ -13,7 +13,7 @@ export default () => {
                     alignItems: 'center',
                 }}
             >
-                <h1 style={{ margin: 0 }}>PET SHELTER!!!</h1>
+                <h1 style={{ margin: 0 }}>PET SHELTER</h1>
             </div>
 
             <hr />
