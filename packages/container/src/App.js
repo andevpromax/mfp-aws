@@ -4,7 +4,18 @@ import MarketingApp from './components/MarketingApp';
 export default () => {
     return (
         <div>
-            <h1>Actum company!</h1>
+            <div
+                style={{
+                    backgroundColor: 'cornsilk',
+                    height: '80px',
+                    display: 'flex',
+                    justifyContent: 'center',
+                    alignItems: 'center',
+                }}
+            >
+                <h1 style={{ margin: 0 }}>PET SHELTER</h1>
+            </div>
+
             <hr />
             <MarketingApp />
         </div>
